@@ -1,5 +1,5 @@
 ## 🤖 Jad Menkara
-
+**`Professional Linkediner | Aspiring Biomedical Engineer | Incoming 11th Year HS Student`**
 <!--
 **Toyotra/Toyotra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
