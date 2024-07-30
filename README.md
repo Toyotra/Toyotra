@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <h2 style ="color:DodgerBlue;">About Me</h2>
+<p>Hey there! My name is Jad Menkara. I am an incoming 11th grade student at Vincent Massey Secondary School with a passion for engineering and design. I primarily focus on mechanical and electrical engineering and am currently leraning web-development to assist me on my tech journey. I have worked on various projects in the past like my Transhumeral Bionic Prosthesis that I made for our regional science fair in March of 2024, and my Nerf Gun w/Computer Vision that I made in association with our local Hack Club. I am currently president of Vincent Massey Hack Club and the Vincent Massey Game Jam, and do various other extracurriculars. I also love to play guitar and have been playing for over three years now.</p>
