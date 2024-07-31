@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" alt="MicroPython" width="30px" style="padding-right:10px;"  src="icons/easyeda-thumbnail.png" />
-
+<img align="left" alt="MicroPython" width="30px" style="padding-right:10px;"  src="icons/3374914.png" />
 
