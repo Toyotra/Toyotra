@@ -35,27 +35,27 @@ Here are some ideas to get you started:
 ### 💻 Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="CPlusPlus" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="CSharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 
 <br/>
 
 ### 👨‍💻 Software
 <!--cura logo.png-->
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/autocad-logo-69326D7728-seeklogo.com.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/autodesk-inventor-cam-product-icon.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="icons/1_autodesk-cfd-product-icon-128@2x.png" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="MicroPython_new_logo.svg.png" />
+<img align="left" alt="Fusion 360" width="30px" style="padding-right:10px;" src="icons/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" />
+<img align="left" alt="Autocad" width="30px" style="padding-right:10px;" src="icons/autocad-logo-69326D7728-seeklogo.com.png" />
+<img align="left" alt="Invemtor" width="30px" style="padding-right:10px;" src="icons/autodesk-inventor-cam-product-icon.svg" />
+<img align="left" alt="Autodesk CFD" width="30px" style="padding-right:10px;"  src="icons/1_autodesk-cfd-product-icon-128@2x.png" />
+<img align="left" alt="MicroPython" width="30px" style="padding-right:10px;"  src="icons/MicroPython_new_logo.svg.png" />
 
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 
 
 
