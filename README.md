@@ -46,6 +46,16 @@ Here are some ideas to get you started:
 <br/>
 
 ### 👨‍💻 Software
+<!--cura logo.png-->
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/autodesk-fusion-360-logo-7F72A76397-seeklogo.com.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/autocad-logo-69326D7728-seeklogo.com.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="icons/autodesk-inventor-cam-product-icon.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="icons/1_autodesk-cfd-product-icon-128@2x.png" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;"  src="MicroPython_new_logo.svg.png" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+
+
+
