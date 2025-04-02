@@ -1,4 +1,4 @@
-## 🤖 Jad Menkara - <a href ="https://jadmenkara-portfoliowebsite.vercel.app">Portfolio Wevsite</a>
+## 🤖 Jad Menkara - <a href ="https://jadmenkara-portfoliowebsite.vercel.app">Portfolio Website</a>
 
 **`Professional Linkediner | Aspiring Biomedical Engineer | Incoming 11th Year HS Student`**
 <!--
